@@ -260,7 +260,8 @@ body {
   border-radius: 20px;
   border: white 2px solid;
   background-color: #fff;
-  width: 35%;
+  width: 30%;
+  margin: 0  auto;
 }
 
 #main #works .work:hover {
@@ -290,8 +291,9 @@ body {
 
 #main #works .work a p {
   font-size: .2rem;
-  padding: .5rem 0;
+  padding: .4rem 0;
   text-align: center;
+  line-height: .3rem;
 }
 
 #main #servise .servise-contents {
